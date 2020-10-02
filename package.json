@@ -1,13 +1,12 @@
 {
   "name": "umijs-plugin-pwa",
   "main": "lib/index.js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "authors": {
     "name": "luoyelusheng",
     "email": "luoyelusheng@gmail.com"
   },
-  "repository": "umi/umijs-plugin-pwa",
   "scripts": {
     "start": "cross-env APP_ROOT=example umi dev",
     "build": "father-build",
