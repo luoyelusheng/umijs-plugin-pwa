@@ -67,5 +67,7 @@
     "shortid": "^2.2.15",
     "umi-utils": "^1.7.2",
     "write-json-file": "^4.3.0"
-  }
+  },
+  "bugs": "https://github.com/luoyelusheng/umijs-plugin-pwa/issues",
+  "homepage": "https://github.com/luoyelusheng/umijs-plugin-pwa"
 }
