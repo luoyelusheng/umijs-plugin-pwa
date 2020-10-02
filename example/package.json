@@ -1,0 +1,7 @@
+{
+  "name": "m-template",
+  "scripts": {
+    "start": "alita dev",
+    "build": "alita build"
+  }
+}
